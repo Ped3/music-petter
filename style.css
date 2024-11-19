@@ -1,11 +1,15 @@
 .chamada{
     background: blue;
     display: flex;
-    margin-top: 80px;
+    padding-top: 80px;
     margin-bottom: 80px;
     justify-content: center;
 }
 body{
     background: white;
     margin: 0px;
+    font-family: "Roboto Mono", monospace;
+    color: blueviolet;
+    margin-bottom: 100px;
+
 }
