@@ -13,3 +13,15 @@ body{
     margin-bottom: 100px;
 
 }
+head{
+    font-size: 35px;
+    color: blanchedalmond;
+    border-bottom: 3px solid blanchedalmond;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
