@@ -41,5 +41,5 @@ h1{
 }
 .categoria-videos ing:hover{
     opacity: 1.0;
-    border: 3px solid rgba(144, 216, 176, 0.192);
+    border: 3px solid red;
 }
