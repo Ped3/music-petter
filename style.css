@@ -13,10 +13,10 @@ body{
     margin-bottom: 100px;
 
 }
-head{
+header{
     font-size: 35px;
-    color: blanchedalmond;
-    border-bottom: 3px solid blanchedalmond;
+    color: black;
+    border-bottom: 3px solid black;
     padding: 20px;
 }
 h1{
